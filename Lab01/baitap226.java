@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class EquationSolver {
+public class baitap226 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("1. bac nhat 1 an");

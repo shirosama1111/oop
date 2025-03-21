@@ -1,11 +1,10 @@
 import java.util.Scanner;
-
-public class ngaythang {
+public class baitap64 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-        System.out.println("nhap ngay");
-		String a = sc.next();
         System.out.println("nhap thang");
+		String a = sc.next();
+        System.out.println("nhap nam");
         int b = sc.nextInt();
         sc.close();
         if(a.equals("Jan")||a.equals("Jan.")||a.equals("January")||a.equals("1")){
