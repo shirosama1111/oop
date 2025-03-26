@@ -1,0 +1,6 @@
+7.Reading Assignment: When should accessor methods be used?
+Accessor methods nên được dùng trong các trường hợp 
+-Khi đối tượng không cần phải thay đổi quá nhiều hoặc phải bảo trì quá nhiều.
+-Khi dữ liệu có thể kiểm soát.
+-Khi cần đóng gói dữ liệu hoặc hỗ trợ bảo trì mã nguồn
+-Khi cung cấp giao diện trừu tượng
